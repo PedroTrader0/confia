@@ -1,0 +1,8 @@
+{
+  "name": "CONFIA - ERP Financeiro",
+  "description": "Sistema completo de controle financeiro com gestão de clientes, fornecedores e lançamentos. Integrado com IA para análise de recibos e assistente virtual.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
